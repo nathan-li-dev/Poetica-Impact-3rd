@@ -1,0 +1,12 @@
+AltroseGreaves:
+  weight: 100
+  name: "Altrose Greaves"
+  type: parryingDagger
+  primary-colour: WHITE
+  secondary-colour: WHITE
+  main-stats:
+    MELEE_DAMAGE: 1
+  bonus-stats:
+    MELEE_DAMAGE: 10
+  lore:
+    - "Yours. Not mine."

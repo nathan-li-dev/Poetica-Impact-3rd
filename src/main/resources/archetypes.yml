@@ -1,0 +1,130 @@
+################################################################################
+#                                                                              #
+#                             Weapons                                          #
+#                                                                              #
+################################################################################
+parryingDagger:
+  name: "Parrying Dagger"
+  material: "STONE_SWORD"
+  type: "WEAPON"
+  weight: 100
+  main-stats:
+    MELEE_DAMAGE: 1.0
+
+broadsword:
+  name: "Broadsword"
+  material: "IRON_SWORD"
+  type: "WEAPON"
+  weight: 100
+  main-stats:
+    MELEE_DAMAGE: 1.0
+
+rapier:
+  name: "Rapier"
+  material: "GOLDEN_SWORD"
+  type: "WEAPON"
+  weight: 100
+  main-stats:
+    MELEE_DAMAGE: 1.0
+
+battleaxe:
+  name: "Battleaxe"
+  material: "IRON_AXE"
+  type: "WEAPON"
+  weight: 100
+  main-stats:
+    MELEE_DAMAGE: 1.0
+
+scythe:
+  name: "Scythe"
+  material: "IRON_HOE"
+  type: "WEAPON"
+  weight: 100
+  main-stats:
+    MELEE_DAMAGE: 1.0
+
+longbow:
+  name: "Longbow"
+  material: "BOW"
+  type: "WEAPON"
+  weight: 100
+  main-stats:
+    MELEE_DAMAGE: 1.0
+
+################################################################################
+#                                                                              #
+#                            Heavy Armor                                       #
+#                                                                              #
+################################################################################
+helmet:
+  name: "Helmet"
+  material: "IRON_HELMET"
+  type: "ARMOUR"
+  weight: 100
+  main-stats:
+    DEFENCE: 1.0
+
+chestplate:
+  name: "Chestplate"
+  material: "IRON_CHESTPLATE"
+  type: "ARMOUR"
+  weight: 100
+  main-stats:
+    DEFENCE: 1.0
+
+greaves:
+  name: "Greaves"
+  material: "IRON_LEGGINGS"
+  type: "ARMOUR"
+  weight: 100
+  main-stats:
+    DEFENCE: 1.0
+
+sabatons:
+  name: "Sabatons"
+  material: "IRON_BOOTS"
+  type: "ARMOUR"
+  weight: 100
+  main-stats:
+    DEFENCE: 1.0
+
+################################################################################
+#                                                                              #
+#                            Light Armor                                       #
+#                                                                              #
+################################################################################
+hood:
+  name: "Hood"
+  material: "LEATHER_HELMET"
+  type: "ARMOUR"
+  weight: 100
+  main-stats:
+    DEFENCE: 0.4
+    EVASION: 0.6
+
+cloak:
+  name: "Cloak"
+  material: "LEATHER_CHESTPLATE"
+  type: "ARMOUR"
+  weight: 100
+  main-stats:
+    DEFENCE: 0.4
+    EVASION: 0.6
+
+pants:
+  name: "Pants"
+  material: "LEATHER_LEGGINGS"
+  type: "ARMOUR"
+  weight: 100
+  main-stats:
+    DEFENCE: 0.4
+    EVASION: 0.6
+
+boots:
+  name: "Boots"
+  material: "LEATHER_BOOTS"
+  type: "ARMOUR"
+  weight: 100
+  main-stats:
+    DEFENCE: 0.4
+    EVASION: 0.6
